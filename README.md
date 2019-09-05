@@ -1,4 +1,4 @@
-# spring-boot（TkMybatis版）
+# SpringBoot（添加TkMybatis版）
 
 ### 1.创建SpringBoot项目
 
