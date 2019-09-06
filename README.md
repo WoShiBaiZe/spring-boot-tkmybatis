@@ -1,9 +1,14 @@
 # SpringBoot（添加TkMybatis版）
 
+## 技术列表
+### 1.SpringBoot
+### 2.Thymeleaf
+### 3.TkMybatis
+### 4.PageHelper
+
+## 开始
 ### 1.创建SpringBoot项目
-
 ### 2.添加Thymeleaf依赖
-
 ```
 <!-- 主要增加 Thymeleaf 依赖 -->
 <dependency>
